@@ -1,0 +1,58 @@
+   
+%A Siddarth,Divya 
+%A Ivliev,Sergey 
+%A Siri,Santiago 
+%A Berman,Paula 
+	
+%D 2020      
+	
+%J Frontiers in Blockchain     
+	
+%C   
+   
+%F    
+	
+%G English    
+	
+%K decentralized identity,Sybil-protection,crypto-governance,decentralized  governance,blockchain voting,Universal basic income (UBI)  
+	
+%Q    
+	
+%R 10.3389/fbloc.2020.590171
+	
+%W     
+	
+%L     
+	
+%N 46
+	
+%M     
+	
+%P    
+	
+%7     
+	
+%8 2020-November-12    
+	
+%9 Review    
+
+	
+%#     
+	
+%! Proof of Personhood: a Review
+	
+%*     
+	
+%<     
+	
+%T Who Watches the Watchmen? A Review of Subjective Approaches for Sybil-Resistance in Proof of Personhood Protocols  
+	
+%U https://www.frontiersin.org/article/10.3389/fbloc.2020.590171    
+	
+%V 3       
+	  
+%0 JOURNAL ARTICLE
+	
+%@ 2624-7852   
+
+%X Most self-sovereign identity systems consist of strictly objective claims, cryptographically signed by trusted third-party attestors. Lacking protocols in place to account for subjectivity, these systems do not form new sources of legitimacy that can address the central question concerning identity authentication: “Who verifies the verifier?” The legitimacy of claims is instead derived from traditional centralized institutions such as national ID issuers and KYC providers. This architecture has been employed, in part, to safeguard protocols from a vulnerability previously thought to be impossible to address in peer-to-peer identity systems: the Sybil attack, which refers to the abuse of a digital network by creating many illegitimate virtual personas. Inspired by the progress in cryptocurrencies and blockchain technology, there has recently been a surge in networked protocols that make use of subjective inputs such as voting, vouching, and interpreting to arrive at a decentralized and Sybil-resistant consensus for identity. In doing so, these projects illustrate that the best technologies do not abstract away subjectivity but instead embrace it as a necessity and strength. In this review, we will outline the approaches of these new and natively digital sources of authentication—their attributes, methodologies, strengths, and weaknesses—and sketch out possible directions for future developments. 
